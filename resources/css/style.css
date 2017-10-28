@@ -1,7 +1,14 @@
 *{
   background-color: black;
+  text-align: center;
+  font-family: Verdana;
 }
 
 h1{
   color: white;
+}
+
+.banner{
+  font-weight: normal;
+  font-size: 50px;
 }
